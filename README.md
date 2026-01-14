@@ -1,64 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kielczi</h1>
-<h3 align="center">Fullstack Developer | Backend & Frontend Enthusiast</h3>
-
+<!-- ANIMATED GRADIENT HEADER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kielczi&label=Profile%20views&color=0e75b6&style=flat" alt="Kielczi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Kielczi&fontSize=70&fontAlignY=40&desc=Fullstack%20Developer&descAlignY=60&color=gradient&animation=fadeIn" />
+</p>
+
+<!-- TYPING + SLIDING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=800&lines=Fullstack+Developer;Backend-first+Engineer;Java+%7C+Kotlin+%7C+.NET+%7C+Python;Clean+Architecture+%7C+Scalable+Systems;Always+building+better+software" />
+</p>
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kielczi&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Fullstack Developer (Frontend & Backend)
-- 🧠 Passionate about clean code & scalable systems
-- 🔍 Always learning new technologies
-- ⚡ Interested in software architecture & performance
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,php,js,html,css" />
-</p>
-
-### 🧰 Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,postgres,mysql,sqlite" />
-</p>
-
-### 🌐 Frontend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,git,github,docker,linux" />
-</p>
-
-> …and many others 😄
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kielczi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kielczi&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 📌 Featured Projects (coming soon)
-> 🚧 This section will showcase my best projects.
-
-
----
-
-## 📫 Contact & Links (optional)
-> Will be updated in the future.
-
-- 🌐 Portfolio: *coming soon*
-- 💼 Discord: *kielczi_*
-- 📧 Email: *kielczi@duck.com*
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+```yaml
+name: Kielczi
+role: Fullstack Developer
+focus:
+  - Backend Architecture
+  - Clean Code
+  - Scalable Systems
+mindset: Always improving 🚀
